@@ -1,4 +1,4 @@
-# Stellar Scout: Model Evaluation and Comparison
+# Stellar Scout: Model Development and Evaulation for Exoplanet Classification
 
 This project aims to develop a machine learning model that can predict the probability of an object being an exoplanet based on data from NASA's Exoplanet Archive.  
 
